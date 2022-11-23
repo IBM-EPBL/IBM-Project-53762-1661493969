@@ -1,0 +1,18 @@
+# IBM-Project-53762-1661493969
+Intelligent Vehicle Damage Assessment &amp; Cost Estimator for Insurance Companies
+
+OUR GITHUB ID FOR THE PROJECT IS 
+
+IBM-EPBL/IBM-Project-53762-1661493969
+
+AND WE HAVE DONE ALL THE WORKS FROM OUR END :)
+
+WE HOPE OUR COCERN MAKES THE IMPACT ON CAR ACCIDENTAL DAMAGES WITH THE COVER OF INSURANCES :)
+
+THE MEMBERS PRESENTED IN THE PROJECTS
+
+1.Abilash Jesaiya
+2.B.mahalingam
+3.K.boomika
+4.J.saruthi Alis Clinden
+5.S.Anthonymartinleo
